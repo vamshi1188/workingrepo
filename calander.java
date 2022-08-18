@@ -30,6 +30,8 @@ switch (button){
     break;
     case 12 : System.out.println("december");
     break;
+    case 14 : System.out.println("ok");
+    break;
     
 }
 
