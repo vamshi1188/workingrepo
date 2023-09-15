@@ -27,7 +27,7 @@ public class week {
             case 7 :
             System.out.println("sunday");
             break;
-            default:System.out.println("there is only 7 days in a week");
+            default:System.out.println("karthik");
             
             sc.close();
           }
